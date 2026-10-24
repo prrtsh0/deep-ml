@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-10-24T07:53:29.276Z",
+  "items": {
+    "math:307": {
+      "kind": "math",
+      "id": "307",
+      "title": "Prefill and Decode in Different Datacenters: The Transfer Budget",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/307",
+      "path": "math/0307-prefill-and-decode-in-different-datacenters-the-transfer-budget",
+      "first_solved_at": "2026-10-24T07:53:24.005Z",
+      "last_pushed_at": "2026-10-24T07:53:24.005Z"
+    }
+  }
+}
