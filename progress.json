@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T07:53:29.276Z",
+  "generated_at": "2026-10-24T10:03:56.353Z",
   "items": {
     "math:307": {
       "kind": "math",
@@ -11,6 +11,17 @@
       "path": "math/0307-prefill-and-decode-in-different-datacenters-the-transfer-budget",
       "first_solved_at": "2026-10-24T07:53:24.005Z",
       "last_pushed_at": "2026-10-24T07:53:24.005Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-24T10:03:54.662Z",
+      "last_pushed_at": "2026-10-24T10:03:54.662Z"
     }
   }
 }

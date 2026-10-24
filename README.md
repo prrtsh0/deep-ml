@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 0 problems · 0 labs · 1 math
+**2** solved · 0 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Prefill and Decode in Different Datacenters: The Transfer Budget](https://www.deep-ml.com/math-problems/307) | easy | 2026-10-24 | [solution](math/0307-prefill-and-decode-in-different-datacenters-the-transfer-budget) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-24 | [solution](math/0007-vector-operations) |
 
 ---
 
